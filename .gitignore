@@ -1,0 +1,6 @@
+*
+!.gitignore
+!bower.json
+!data.php
+!index.php
+!sql.sql

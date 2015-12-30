@@ -1,0 +1,30 @@
+{
+  "name": "Gráficas con Morris.JS",
+  "description": "Gráficas con Morris.JS, ejemplo de uso.",
+  "main": "index.php",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "php",
+    "morris",
+    "bootstrap"
+  ],
+  "authors": [
+    "Angel Cruz <me@abr4xas.org>"
+  ],
+  "license": "MIT",
+  "homepage": "http://abr4xas.org",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "morris.js": "~0.5.1",
+    "bootstrap": "~3.3.6"
+  }
+}
